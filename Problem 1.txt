@@ -1,0 +1,35 @@
+Problem 1:
+
+Design a system to manage flight bookings, including features for seat assignment, meal options, surge pricing, flight summaries, and cancellations.
+
+=======================================================================
+
+# Requirements
+Booking for 2 flights (id - A001, A002)
+
+# Core Features:
+Booking: 
+	Allow passengers to book tickets for specific flights, specifying their name, ticket type, and meal preferences.
+
+Seat Assignment: 
+	Assign unique seat numbers to each passenger.
+
+Surge Pricing: 
+	Implement a dynamic pricing mechanism where ticket prices increase with each successful booking.
+
+Flight Summary: 
+	Provide a detailed summary of each flight, including passenger information, seat assignments, and total revenue.
+	
+Cancellation: 
+	Allow passengers to cancel their bookings and process refunds.
+
+Data Storage: 
+	Store passenger information, flight details, booking records, and payment information.
+	
+# Use Cases
+
+	- Searches for available flights.
+	- Books a ticket.
+	- Views their booking details.
+	- Cancels a booking.
+	- Generates flight summaries and reports.

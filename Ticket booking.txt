@@ -1,0 +1,25 @@
+Problem 2:
+
+Design a system to manage railway ticket bookings, including features for route selection, fare calculation, berth allocation, coach assignment, online billing, and cancellations.
+
+===================================================================
+
+#Requirements
+
+#Core Features:
+	- Booking: Allow users to book tickets, specifying their journey details, preferred class, and berth preferences.
+	-Cancellation: Enable users to cancel their bookings and process refunds.
+	-Route Options: Provide information about available routes, departure/arrival times, and distances.
+	-Fare Calculation: Calculate ticket fares based on distance, class, and additional charges.
+	-Berth Allocation/Deallocation: Assign or deallocate berths based on availability and passenger preferences.
+	-Coach Position: Inform users about coach positions and amenities.
+	-Online Billing: Allow users to pay for tickets online using various payment methods.
+	-Online Shopping: Offer additional services or products for purchase (e.g., food, merchandise).
+	
+#Use Cases
+	
+	- Searches for available routes and trains.
+	- Books a ticket.
+	- Views their booking details.
+	- Cancels a booking.
+	- Purchases additional items (e.g., food, merchandise).
